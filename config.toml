@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "http://practicaly.in/"
 title = "Practica.ly"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
